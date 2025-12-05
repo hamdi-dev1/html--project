@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+
+    <h1>Welcome to My Portfolio</h1>
+    <p>Hello, my name is Hamdi. I am a beginner developer learning HTML.</p>
+
+    <h2>About Me</h2>
+    <p>I enjoy building simple websites and improving my coding skills.</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Landing Page</li>
+        <li>Login Page</li>
+        <li>Personal Website</li>
+        <li>Blog Layout</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS (learning)</li>
+        <li>JavaScript (soon)</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:hamdiahmedmuse@gmail.com">hamdiahmedmuse@gmail.com</a></p>
+
+</body>
+ <footer>
+        <p> hamdi_dev</p>
+    </footer>
+</html>
+

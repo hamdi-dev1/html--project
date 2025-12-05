@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Hamdi's Blog</h1>
+        <p>Sharing ideas, tutorials, and web development tips</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Me</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    
+    <main>
+        <article>
+            <h2>My First Blog Post</h2>
+            <p><span>Date:</span> December 4, 2024</p>
+            <p>This is my first blog post. I will share my learning journey in web development, UI design, and networking.</p>
+        </article>
+
+        <article>
+            <h2>Learning HTML & CSS</h2>
+            <p><span>Date:</span> December 3, 2024</p>
+            <p>HTML and CSS are the foundation of web development. Learning them helped me build my first landing page and portfolio.</p>
+        </article>
+
+        <article>
+            <h2>Exploring JavaScript</h2>
+            <p><span>Date:</span> December 2, 2024</p>
+            <p>JavaScript brings websites to life. I’m currently learning how to make interactive web pages and simple web apps.</p>
+        </article>
+    </main>
+
+    
+    <footer>
+        <p> hamdi_dev</p>
+    </footer>
+
+</body>
+</html>
